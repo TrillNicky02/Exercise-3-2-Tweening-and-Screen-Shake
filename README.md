@@ -1,6 +1,7 @@
 # Exercise 3.2-Tweening and Screen Shake
 
 Exercise for MSCH-C220
+DATE 10/02/2023
 
 The second exercise adding "juicy" features to a simple brick-breaker game.
 
